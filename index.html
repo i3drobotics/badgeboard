@@ -62,9 +62,9 @@
       max_cols: 6,
       widget_margins: [5, 5],
       resize: {
-        enabled: true
+        enabled: false
       }
-    }).data('gridster');
+    }).data('gridster').disable();
     $('.gridster  ul').css({'padding': '0'});
     fillDashobard(gridster);
   });

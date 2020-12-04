@@ -42,6 +42,15 @@ var badges = [
 		color: 'widget-meter',
 	},
 	{
+		type: 'text',
+		size: { x: 2, y: 1 },
+		position: { x: 3, y: 2 },
+		title: "App",
+		subtitle: 'Repositories',
+		description: '',
+		color: 'widget-comments',
+	},
+	{
 		type: 'badge',
 		size: { x: 2, y: 1 },
 		position: { x: 3, y: 3 },
@@ -50,7 +59,7 @@ var badges = [
 		description: 'Stereo Vision Toolkit',
 		link: 'https://github.com/i3drobotics/stereo-vision-toolkit/tree/dev',
 		measure: { x: 120, y: 5 },
-		colors: [['status-warning', '212,52,67'], ['status-danger', '197,105,30'], ['status-good', '49,198,83']],
+		colors: [['status-warning', '212,52,67'], ['status-danger', '197,105,30'], ['status-good', '49,197,83']],
 	},
 	{
 		type: 'text',
@@ -59,7 +68,7 @@ var badges = [
 		title: "ROS",
 		subtitle: 'Repositories',
 		description: '',
-		color: 'widget-text',
+		color: 'widget-comments',
 	},
 	{
 		type: 'badge',
@@ -70,7 +79,7 @@ var badges = [
 		description: 'Stereo Camera ROS Package',
 		link: 'https://github.com/i3drobotics/i3dr_stereo_camera-ros',
 		measure: { x: 120, y: 5 },
-		colors: [['status-warning', '212,51,67'], ['status-danger', '197,105,30'], ['status-good', '49,197,83']],
+		colors: [['status-warning', '212,52,67'], ['status-danger', '197,105,30'], ['status-good', '49,197,83']],
 	},
 	{
 		type: 'badge',
@@ -81,7 +90,7 @@ var badges = [
 		description: 'Deimos ROS Driver',
 		link: 'https://github.com/i3drobotics/i3dr_deimos-ros',
 		measure: { x: 120, y: 5 },
-		colors: [['status-warning', '212,51,67'], ['status-danger', '197,105,30'], ['status-good', '49,197,83']],
+		colors: [['status-warning', '212,52,67'], ['status-danger', '197,105,30'], ['status-good', '49,197,83']],
 	},
 	{
 		type: 'badge',
@@ -101,7 +110,7 @@ var badges = [
 		title: "Python",
 		subtitle: 'Repositories',
 		description: '',
-		color: 'widget-text',
+		color: 'widget-comments',
 	},
 	{
 		type: 'badge',
