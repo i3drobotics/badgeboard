@@ -585,7 +585,7 @@ h3 {
   cursor: pointer; }
 
 .widget {
-  padding: 25px 12px;
+  padding: 0px 0px;
   text-align: center;
   width: 100%;
   display: table-cell;
