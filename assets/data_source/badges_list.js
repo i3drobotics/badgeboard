@@ -49,7 +49,7 @@ var badges = [
 		title: "SVTK",
 		description: 'Stereo Vision Toolkit',
 		link: 'https://github.com/i3drobotics/stereo-vision-toolkit/tree/dev',
-		measure: { x: 92, y: 4 },
+		measure: { x: 120, y: 5 },
 		colors: [['status-warning', '212,52,67'], ['status-danger', '197,105,30'], ['status-good', '49,198,83']],
 	},
 	{
@@ -70,7 +70,7 @@ var badges = [
 		description: 'Stereo Camera ROS Package',
 		link: 'https://github.com/i3drobotics/i3dr_stereo_camera-ros',
 		measure: { x: 120, y: 5 },
-		colors: [['status-warning', '212,52,67'], ['status-danger', '212,52,67'], ['status-good', '49,197,83']],
+		colors: [['status-warning', '212,51,67'], ['status-danger', '197,105,30'], ['status-good', '49,197,83']],
 	},
 	{
 		type: 'badge',
@@ -81,7 +81,7 @@ var badges = [
 		description: 'Deimos ROS Driver',
 		link: 'https://github.com/i3drobotics/i3dr_deimos-ros',
 		measure: { x: 120, y: 5 },
-		colors: [['status-warning', '212,52,67'], ['status-danger', '212,52,67'], ['status-good', '49,197,83']],
+		colors: [['status-warning', '212,51,67'], ['status-danger', '197,105,30'], ['status-good', '49,197,83']],
 	},
 	{
 		type: 'badge',
@@ -92,7 +92,7 @@ var badges = [
 		description: 'Phobos ROS Driver',
 		link: 'https://github.com/i3drobotics/i3dr_phobos-ros',
 		measure: { x: 120, y: 5 },
-		colors: [['status-warning', '212,52,67'], ['status-danger', '212,52,67'], ['status-good', '48,196,82']],
+		colors: [['status-warning', '212,52,67'], ['status-danger', '197,105,30'], ['status-good', '48,196,82']],
 	},
 	{
 		type: 'text',
@@ -112,7 +112,7 @@ var badges = [
 		description: 'Stereo3D python package',
 		link: 'https://github.com/i3drobotics/pyStereo3D',
 		measure: { x: 175, y: 5 },
-		colors: [['status-warning', '212,52,67'], ['status-danger', '197,105,30'], ['status-good', '48,196,82']],
+		colors: [['status-warning', '212,52,67'], ['status-danger', '197,105,30'], ['status-good', '49,197,83']],
 	},
 	{
 		type: 'badge',
@@ -123,7 +123,7 @@ var badges = [
 		description: 'I3DRSGM python package',
 		link: 'https://github.com/i3drobotics/pyI3DRSGM',
 		measure: { x: 175, y: 5 },
-		colors: [['status-warning', '212,52,67'], ['status-danger', '197,105,30'], ['status-good', '48,196,82']],
+		colors: [['status-warning', '212,52,67'], ['status-danger', '197,105,30'], ['status-good', '49,197,83']],
 	},
 	{
 		type: 'badge',
@@ -134,6 +134,6 @@ var badges = [
 		description: 'StereoMidEval python package',
 		link: 'https://github.com/i3drobotics/stereomideval',
 		measure: { x: 175, y: 5 },
-		colors: [['status-warning', '212,52,67'], ['status-danger', '197,105,30'], ['status-good', '48,196,82']],
+		colors: [['status-warning', '212,52,67'], ['status-danger', '197,105,30'], ['status-good', '49,197,83']],
 	},
 ];
