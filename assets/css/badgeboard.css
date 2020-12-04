@@ -440,7 +440,7 @@ li[class^="icon-"].icon-large:before, li[class*=" icon-"].icon-large:before {
   .widget-list .more-info {
     color: rgba(255, 255, 255, 0.7); }
 .widget-meter {
-  background-color: #9c4274; }
+  background-color:rgba(64, 88, 136, 1.0); }
   .widget-meter input.meter {
     background-color: #662b4c;
     color: #fff; }
@@ -465,7 +465,7 @@ li[class^="icon-"].icon-large:before, li[class*=" icon-"].icon-large:before {
   .widget-number .updated-at {
     color: rgba(0, 0, 0, 0.3); }
 .widget-text {
-  background-color: #ec663c; }
+  background-color: rgba(64, 88, 136, 1.0); }
   .widget-text .title {
     color: rgba(255, 255, 255, 0.7); }
   .widget-text .more-info {
@@ -545,7 +545,7 @@ h1, h2, h3, h4, h5, p {
   margin: 0; }
 
 h1 {
-  margin-bottom: 12px;
+  margin-bottom: 20px;
   text-align: center;
   font-size: 30px;
   font-weight: 400; }
