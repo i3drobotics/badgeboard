@@ -104,6 +104,17 @@ var badges = [
 		colors: [['status-warning', '212,52,67'], ['status-danger', '197,105,30'], ['status-good', '48,196,82']],
 	},
 	{
+		type: 'badge',
+		size: { x: 2, y: 1 },
+		position: { x: 5, y: 6 },
+		uri: corssproxy + 'https://github.com/i3drobotics/pylon_camera/workflows/ROS%20Build/badge.svg?event=push',
+		title: "pylon_camera",
+		description: 'Basler Pylon ROS Driver',
+		link: 'https://github.com/i3drobotics/pylon_camera',
+		measure: { x: 120, y: 5 },
+		colors: [['status-warning', '212,52,67'], ['status-danger', '197,105,30'], ['status-good', '48,196,82']],
+	},
+	{
 		type: 'text',
 		size: { x: 2, y: 1 },
 		position: { x: 1, y: 2 },
