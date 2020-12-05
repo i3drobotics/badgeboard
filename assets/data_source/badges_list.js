@@ -101,7 +101,7 @@ var badges = [
 		description: 'Phobos ROS Driver',
 		link: 'https://github.com/i3drobotics/i3dr_phobos-ros',
 		measure: { x: 120, y: 5 },
-		colors: [['status-warning', '212,52,67'], ['status-danger', '197,105,30'], ['status-good', '48,196,82']],
+		colors: [['status-warning', '212,52,67'], ['status-danger', '197,105,30'], ['status-good', '49,197,83']],
 	},
 	{
 		type: 'badge',
@@ -112,7 +112,7 @@ var badges = [
 		description: 'Basler Pylon ROS Driver',
 		link: 'https://github.com/i3drobotics/pylon_camera',
 		measure: { x: 120, y: 5 },
-		colors: [['status-warning', '212,52,67'], ['status-danger', '197,105,30'], ['status-good', '48,196,82']],
+		colors: [['status-warning', '212,52,67'], ['status-danger', '197,105,30'], ['status-good', '49,197,83']],
 	},
 	{
 		type: 'badge',
@@ -123,7 +123,7 @@ var badges = [
 		description: 'Basler camera control msgs for ROS',
 		link: 'https://github.com/i3drobotics/camera_control_msgs',
 		measure: { x: 120, y: 5 },
-		colors: [['status-warning', '212,52,67'], ['status-danger', '197,105,30'], ['status-good', '48,196,82']],
+		colors: [['status-warning', '212,52,67'], ['status-danger', '197,105,30'], ['status-good', '49,197,83']],
 	},
 	{
 		type: 'text',
