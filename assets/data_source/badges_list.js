@@ -126,6 +126,17 @@ var badges = [
 		colors: [['status-warning', '212,52,67'], ['status-danger', '197,105,30'], ['status-good', '49,197,83']],
 	},
 	{
+		type: 'badge',
+		size: { x: 2, y: 1 },
+		position: { x: 5, y: 8 },
+		uri: corssproxy + 'https://github.com/i3drobotics/i3dr_titania-ros/workflows/ROS%20Build/badge.svg?event=push',
+		title: "i3dr_titania",
+		description: 'Titania ROS Driver',
+		link: 'https://github.com/i3drobotics/i3dr_titania-ros',
+		measure: { x: 120, y: 5 },
+		colors: [['status-warning', '212,52,67'], ['status-danger', '197,105,30'], ['status-good', '49,197,83']],
+	},
+	{
 		type: 'text',
 		size: { x: 2, y: 1 },
 		position: { x: 1, y: 2 },
