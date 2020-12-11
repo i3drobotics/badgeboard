@@ -62,6 +62,17 @@ var badges = [
 		colors: [['status-warning', '212,52,67'], ['status-danger', '197,105,30'], ['status-good', '49,197,83']],
 	},
 	{
+		type: 'badge',
+		size: { x: 2, y: 1 },
+		position: { x: 3, y: 4 },
+		uri: corssproxy + 'https://github.com/i3drobotics/i3drsgm/workflows/Build/badge.svg?event=push',
+		title: "SVTK",
+		description: 'I3DRSGM',
+		link: 'https://github.com/i3drobotics/i3drsgm',
+		measure: { x: 120, y: 5 },
+		colors: [['status-warning', '212,52,67'], ['status-danger', '197,105,30'], ['status-good', '49,197,83']],
+	},
+	{
 		type: 'text',
 		size: { x: 2, y: 1 },
 		position: { x: 5, y: 2 },
