@@ -69,7 +69,7 @@ var badges = [
 		title: "SVTK",
 		description: 'I3DRSGM',
 		link: 'https://github.com/i3drobotics/i3drsgm',
-		measure: { x: 120, y: 5 },
+		measure: { x: 100, y: 5 },
 		colors: [['status-warning', '212,52,67'], ['status-danger', '197,105,30'], ['status-good', '49,197,83']],
 	},
 	{
